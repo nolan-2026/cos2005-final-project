@@ -1,5 +1,4 @@
-# Student Database Setup Program
-# Creates a database and adds sample student records
+# Student Database
 
 import sqlite3
 
